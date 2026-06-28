@@ -244,7 +244,7 @@ MIT — free to use, modify, and distribute.
 ## 👤 Author
 
 **Roger Andrés Álvarez Díaz (Toger)**
-Computer Science and Systems Engineering student — UAO
+Computer Science and Systems Engineering
 
 - GitHub: [github.com/TogerAndres](https://github.com/TogerAndres)
 - LinkedIn: [roger-andrés-alvarez-diaz](https://www.linkedin.com/in/roger-andrés-alvarez-diaz-52b395333/)
